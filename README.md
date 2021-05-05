@@ -1,2 +1,2 @@
 # bankistWebsite
-this is a website of Bankist App
+Implemented nice and smooth scrollig and section reveal using Vanilla JS Intersection Observer
